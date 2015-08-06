@@ -1,0 +1,19 @@
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.Form2.resources
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.exe
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Debug\Snake.pdb
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\bin\Debug\Snake.exe
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\bin\Debug\Snake.pdb
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Debug\Snake.AboutBox1.resources
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Debug\Snake.exe
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Debug\Snake.pdb

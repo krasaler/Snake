@@ -1,0 +1,32 @@
+<NewDataSet>
+  <Table>
+    <ID>1</ID>
+    <UserID>1</UserID>
+    <Name>kiev2                          </Name>
+    <Code>12354 </Code>
+  </Table>
+  <Table>
+    <ID>2</ID>
+    <UserID>2</UserID>
+    <Name>kharkov2                      </Name>
+    <Code>13267 </Code>
+  </Table>
+  <Table>
+    <ID>3</ID>
+    <UserID>3</UserID>
+    <Name>odesa                         </Name>
+    <Code>2     </Code>
+  </Table>
+  <Table>
+    <ID>37</ID>
+    <UserID>4</UserID>
+    <Name>moskow2                         </Name>
+    <Code>3     </Code>
+  </Table>
+    <Table>
+    <ID>44</ID>
+    <UserID>15</UserID>
+    <Name>irkutsk                         </Name>
+    <Code>34    </Code>
+  </Table>
+</NewDataSet>

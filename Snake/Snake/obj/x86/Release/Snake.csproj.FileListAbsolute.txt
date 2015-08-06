@@ -1,0 +1,37 @@
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\bin\Release\Snake.exe
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\bin\Release\Snake.pdb
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Release\Snake.AboutBox1.resources
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Release\Snake.Form1.resources
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Release\Snake.Properties.Resources.resources
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Release\Snake.exe
+C:\Users\krasaler\documents\visual studio 2010\Projects\Snake\Snake\obj\x86\Release\Snake.pdb
+D:\Учеба\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.exe
+D:\Учеба\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.pdb
+D:\Учеба\Проекты\C#\Snake\Snake\bin\Release\Snake.exe
+D:\Учеба\Проекты\C#\Snake\Snake\bin\Release\Snake.pdb
+D:\Учеба\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.csprojResolveAssemblyReference.cache
+D:\Учеба\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.AboutBox1.resources
+D:\Учеба\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.Form1.resources
+D:\Учеба\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.Properties.Resources.resources
+D:\Учеба\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.csproj.GenerateResource.Cache
+D:\Develop Software\Project\C#\Snake\Snake\obj\x86\Release\Snake.exe
+D:\Develop Software\Project\C#\Snake\Snake\obj\x86\Release\Snake.pdb
+D:\Develop Software\Project\C#\Snake\Snake\bin\Release\Snake.exe
+D:\Develop Software\Project\C#\Snake\Snake\bin\Release\Snake.pdb
+D:\Develop Software\Project\C#\Snake\Snake\obj\x86\Release\Snake.csprojResolveAssemblyReference.cache
+D:\Develop Software\Project\C#\Snake\Snake\obj\x86\Release\Snake.AboutBox1.resources
+D:\Develop Software\Project\C#\Snake\Snake\obj\x86\Release\Snake.Form1.resources
+D:\Develop Software\Project\C#\Snake\Snake\obj\x86\Release\Snake.Properties.Resources.resources
+D:\Develop Software\Project\C#\Snake\Snake\obj\x86\Release\Snake.csproj.GenerateResource.Cache
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.exe
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.pdb
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\bin\Release\Snake.exe
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\bin\Release\Snake.pdb
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.csprojResolveAssemblyReference.cache
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.AboutBox1.resources
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.Form1.resources
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.Properties.Resources.resources
+D:\Рабочие файлы\Разработка\Проекты\C#\Snake\Snake\obj\x86\Release\Snake.csproj.GenerateResource.Cache
